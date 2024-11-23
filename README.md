@@ -9,6 +9,7 @@ Implemented screens
 - Profile ✅
 - iOS Dark Mode/Light Mode ✅
 
+
 Work Needed 
 - Functionality 🔜
 - Messages 🔜
